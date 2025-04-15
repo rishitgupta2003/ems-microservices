@@ -1,0 +1,9 @@
+[submodule "ems-eureka-server"]
+	path = ems-eureka-server
+	url = https://github.com/rishitgupta2003/ems-eureka-server
+[submodule "employee-service"]
+	path = employee-service
+	url = https://github.com/rishitgupta2003/employee-service
+[submodule "department-service"]
+	path = department-service
+	url = https://github.com/rishitgupta2003/department-service
