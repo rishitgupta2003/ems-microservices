@@ -7,3 +7,6 @@
 [submodule "department-service"]
 	path = department-service
 	url = https://github.com/rishitgupta2003/department-service
+[submodule "organisation-service"]
+	path = organisation-service
+	url = https://github.com/rishitgupta2003/organisation-service.git
